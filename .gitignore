@@ -1,0 +1,5 @@
+target/
+*.class
+.metadata/
+*.log
+.DS_Store
